@@ -24,7 +24,6 @@ public class Aula02 {
         Caneta c2 = new Caneta();
         c2.modelo = "Hostnet";
         c2.cor = "Preta";
-        c2.destampar();
         c2.rabiscar();
         c2.tampar();
         c2.destampar();
