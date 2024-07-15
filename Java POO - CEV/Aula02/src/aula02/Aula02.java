@@ -27,6 +27,7 @@ public class Aula02 {
         c2.destampar();
         c2.rabiscar();
         c2.tampar();
+        c2.destampar();
         c2.status();
     }
     
